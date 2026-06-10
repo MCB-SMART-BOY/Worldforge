@@ -333,4 +333,4 @@ fn run_diagnose<D: Diagnose>(rule: D, input: &WindowInput) -> Diagnosis {
 
 ---
 
-← [上一章](第14章_宗门初立_workspace与多crate协同.md) · [目录](../00_卷索引.md) · [下一章](第16章_留影为史_Git不只是备份.md) →
+← [上一章](第14章_宗门初立_workspace与多crate协同.md) · [目录](../../../目录.md) · [下一章](第16章_留影为史_Git不只是备份.md) →

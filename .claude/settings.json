@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(sed:*)",
+      "Bash(wc:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(rmdir:*)",
+      "Bash(mv:*)",
+      "Bash(cp:*)",
+      "Bash(python3:*)",
+      "Bash(fish:*)",
+      "Bash(echo:*)",
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep"
+    ]
+  }
+}
