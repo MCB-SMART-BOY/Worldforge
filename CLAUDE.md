@@ -44,17 +44,19 @@ This is a **writing project** — all files are Markdown. There is no build, lin
 
 ## Available Skills
 
-This project has 7 custom skills in `.claude/skills/`. Each skill encodes the project's writing rules.
+This project has 9 custom skills in `.claude/skills/`. Each skill encodes the project's writing rules — simultaneously checking **logical correctness** (engineering first) and **dramatic tension** (reader experience).
 
-| Skill | Use |
-|---|---|
-| `/review-chapter` | Audit a chapter against all writing iron laws, 6-beat structure, self-check questions |
-| `/design-chapter` | Generate a chapter blueprint following the 6-step design workflow |
-| `/gen-character` | Generate a character card following the 9-section template |
-| `/check-canon` | Verify new content doesn't break worldbuilding rules |
-| `/gen-practice` | Generate a 卷外配套 practice sheet from a chapter |
-| `/audit-volume` | Full-volume review: plot logic, terms, teaching sequence, cross-refs |
-| `/check-cross-volume` | Verify cross-volume references obey the four iron laws |
+| Skill | Use | Axis |
+|---|---|---|
+| `/review-chapter` | Audit a chapter: iron laws + 6-beat structure + **dramatic tension** + reader accessibility | 逻辑 + 张力 |
+| `/design-chapter` | Generate a chapter blueprint: 6-step workflow + **tension curve** + reveal rhythm | 逻辑 + 张力 |
+| `/gen-character` | Generate a character card: 9-section template + **dramatic conflict potential** | 逻辑 + 张力 |
+| `/craft-scene` | **NEW** Scene-level dramatic construction: tension building, reveal timing, emotional beats | 张力 |
+| `/gen-entry` | **NEW** Generate world-intro materials: world primer, volume entry, chapter zero, reading guide, glossary-lite | 入门 |
+| `/check-canon` | Verify new content doesn't break worldbuilding rules + **reader cognitive load check** | 逻辑 + 入门 |
+| `/gen-practice` | Generate a 卷外配套 practice sheet with **narrative scenarios** (not just CLI steps) | 教学 |
+| `/audit-volume` | Full-volume review: plot logic + terms + teaching + **pacing & reader journey mapping** | 逻辑 + 张力 |
+| `/check-cross-volume` | Verify cross-volume references obey four iron laws + **entry accessibility for new readers** | 逻辑 + 入门 |
 
 ## Internal Reference Map
 
