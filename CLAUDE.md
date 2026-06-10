@@ -21,11 +21,11 @@ This is a **writing project** — all files are Markdown. There is no build, lin
 ├── 目录.md                    # Complete chapter index (75 chapters)
 ├── LICENSE
 ├── .gitignore
-├── 主卷/                      # Chapter prose — the only reader-facing content
-│   ├── 01_明契卷/正文/        # 31 Rust chapters (30 + prologue)
-│   ├── 02_驭器卷/正文/        # 15 C++ chapters
-│   ├── 03_化形卷/正文/        # 15 Python chapters
-│   └── 04_简阵卷/正文/        # 15 Go chapters
+├── 正文/                      # Chapter prose — the only reader-facing content
+│   ├── 01_明契卷/             # 31 Rust chapters (30 + prologue)
+│   ├── 02_驭器卷/             # 15 C++ chapters
+│   ├── 03_化形卷/             # 15 Python chapters
+│   └── 04_简阵卷/             # 15 Go chapters
 └── .claude/                   # All internal reference material
     ├── README.md              # Internal architecture overview
     ├── settings.json          # Project-level Claude Code config
@@ -40,7 +40,7 @@ This is a **writing project** — all files are Markdown. There is no build, lin
     └── skills/                # 7 custom Claude Code skills
 ```
 
-**Key principle**: Everything outside `主卷/*/正文/` is internal tooling. The root is clean — only chapters, README, LICENSE, and chapter index.
+**Key principle**: Everything outside `正文/` is internal tooling. The root is clean — only chapters, README, LICENSE, and chapter index.
 
 ## Available Skills
 
@@ -90,7 +90,7 @@ Each volume under `.claude/workspace/` follows a five-layer structure:
 4. `正文设计/` — Reading guides, sample scenes, climax drafts, structural design
 5. `资料/` — Incident prototypes, project archives, legacy asset inventories
 
-Chapter prose lives separately at `主卷/XX_YY卷/正文/`.
+Chapter prose lives at `正文/XX_YY卷/`.
 
 ## Core Worldview: 四相 (Four Phases) and 四蚀 (Four Corrosions)
 

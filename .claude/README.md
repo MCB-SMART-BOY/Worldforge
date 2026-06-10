@@ -4,8 +4,8 @@ This directory contains all internal reference material for the 万构界 projec
 
 ## Why .claude/
 
-- **Clean root**: The project root only shows chapters (`主卷/*/正文/`), README, LICENSE, and chapter index
-- **Separation of concerns**: Author tooling lives here; prose lives in `主卷/*/正文/`
+- **Clean root**: The project root only shows chapters (`正文/`), README, LICENSE, and chapter index
+- **Separation of concerns**: Author tooling lives here; prose lives in `正文/`
 - **Claude-native**: Skills, canon, and workspace are all directly accessible to Claude Code
 
 ## Directory Map
