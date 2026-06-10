@@ -8,6 +8,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a **writing project** — all files are Markdown. There is no build, lint, or test system.
 
+## Repository Rules
+
+- **Never add `Co-Authored-By: Claude` or any AI/Claude attribution to git commits.** All commits are authored solely by the human author. No exceptions.
+
 ## Directory Layout
 
 ```
