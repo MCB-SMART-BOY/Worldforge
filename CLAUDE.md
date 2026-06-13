@@ -73,10 +73,10 @@ When you need to read worldbuilding rules, start at `.claude/canon/`. When you n
 
 | # | Volume | Language | Core Project | Target Chapters | Status |
 |---|---|---|---|---|---|
-| 1 | 驭器卷 | C++ | 玄枢 | 120 | 🟡 Blueprint complete (15 chapters drafted) |
-| 2 | 化形卷 | Python | 息壤 | 120 | 🟡 Blueprint complete (15 chapters drafted) |
-| 3 | 简阵卷 | Go | 驿河 | 120 | 🟡 Blueprint complete (15 chapters drafted) |
-| 4 | 明契卷 | Rust | 青炉 | 120 + 序章 | 🟡 Blueprint complete (30 chapters drafted) |
+| 1 | 驭器卷 | C++ | 玄枢 | 120 | 🟢 章纲完成 (15/120 chapters drafted) |
+| 2 | 化形卷 | Python | 息壤 | 120 | 🟢 章纲完成 (15/120 chapters drafted) |
+| 3 | 简阵卷 | Go | 驿河 | 120 | 🟢 章纲完成 (15/120 chapters drafted) |
+| 4 | 明契卷 | Rust | 青炉 | 120 + 序章 | 🟢 章纲完成 (30/120 chapters drafted) |
 
 Reading/writing order: **驭器 → 化形 → 简阵 → 明契**
 
@@ -170,17 +170,24 @@ If you can't answer at least two, the scene likely hasn't connected to the world
 - Index files: `00_XX索引.md`
 - Reference materials: `##_描述性名称.md`
 
-## Current Status (as of 2026-06-10)
+## Current Status (as of 2026-06-13)
 
-All four volumes have completed their initial draft prose at 15-30 chapters. The project has now been re-planned for **120 chapters per volume** (480 chapters total), following the `12卷 × 10章` architecture defined in `.claude/canon/23_四卷120章总蓝图.md`.
+All four volumes have completed **120-chapter outlines (章纲)** — 52 files, ~1.4MB, ~12,400 lines. Cross-volume review and skills update complete. Prose remains at 15-30 chapters per volume.
+
+| Volume | Language | Chapters | 章纲 | Prose |
+|---|---|---|---|---|
+| 驭器卷 | C++ | 120 | ✅ | 15/120 |
+| 化形卷 | Python | 120 | ✅ | 15/120 |
+| 简阵卷 | Go | 120 | ✅ | 15/120 |
+| 明契卷 | Rust | 120 | ✅ | 30/120 + 序章 |
 
 Current priority tasks:
-1. Expand 驭器卷 from 15 to 120 chapters (new first volume — ancient C++ foundation)
-2. Expand 化形卷 from 15 to 120 chapters (second volume — modern Python ecosystem)
-3. Expand 简阵卷 from 15 to 120 chapters (third volume — Go platform engineering)
-4. Expand 明契卷 from 30 to 120 chapters (final volume — Rust culmination, serves as methodology template)
-5. Write chapter outlines (章纲) for all 480 chapters before drafting prose
-6. Update skills to handle 120-chapter scale (tension curves, cross-volume anchor tracking)
+1. Write prose (正文) — expand 驭器卷 from 15 to 120 chapters
+2. Write prose — expand 化形卷 from 15 to 120 chapters
+3. Write prose — expand 简阵卷 from 15 to 120 chapters
+4. Write prose — expand 明契卷 from 30 to 120 chapters
+5. Write chapter outlines (章纲) for all 480 chapters before drafting prose ✅ DONE
+6. Update skills to handle 120-chapter scale ✅ DONE
 
 ## Conflict Resolution Order
 
