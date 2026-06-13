@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Identity
 
-《万构界》(Worldforge) is a Chinese-language novel series set in a world driven by **engineering civilization**, not magic. Each volume personifies a programming language as a "道" (Dao/Path) — Rust, C++, Python, Go — and tells stories about complexity, time, collaboration, debt, and inheritance through their engineering cultures. The core question: **"Do those who come after still have a road to walk?"**
+《万构界》(Worldforge) is a Chinese-language novel series set in a world driven by **engineering civilization**, not magic. Each volume personifies a programming language as a "道" (Dao/Path) — C++, Python, Go, Rust — and tells stories about complexity, time, collaboration, debt, and inheritance through their engineering cultures. The core question: **"Do those who come after still have a road to walk?"**
 
 This is a **writing project** — all files are Markdown. There is no build, lint, or test system.
 
@@ -18,14 +18,14 @@ This is a **writing project** — all files are Markdown. There is no build, lin
 万构界/
 ├── CLAUDE.md                  # Claude Code agent config (this file)
 ├── README.md                  # Public project overview
-├── 目录.md                    # Complete chapter index (75 chapters)
+├── 目录.md                    # Complete chapter index (480 chapters, 120/卷)
 ├── LICENSE
 ├── .gitignore
 ├── 正文/                      # Chapter prose — the only reader-facing content
-│   ├── 01_明契卷/             # 31 Rust chapters (30 + prologue)
-│   ├── 02_驭器卷/             # 15 C++ chapters
-│   ├── 03_化形卷/             # 15 Python chapters
-│   └── 04_简阵卷/             # 15 Go chapters
+│   ├── 01_驭器卷/             # 120 C++ chapters
+│   ├── 02_化形卷/             # 120 Python chapters
+│   ├── 03_简阵卷/             # 120 Go chapters
+│   └── 04_明契卷/             # 120 Rust chapters (+ prologue)
 └── .claude/                   # All internal reference material
     ├── README.md              # Internal architecture overview
     ├── settings.json          # Project-level Claude Code config
@@ -33,10 +33,10 @@ This is a **writing project** — all files are Markdown. There is no build, lin
     ├── supplements/           # Teaching practice sheets (was 卷外配套/)
     ├── workspace/             # Per-volume characters, outlines, design, research
     │   ├── 00_工作区说明.md
-    │   ├── 01_明契卷/{00_卷索引,人物,章纲,正文设计,资料}/
-    │   ├── 02_驭器卷/{00_卷索引,人物,章纲,正文设计,资料}/
-    │   ├── 03_化形卷/{00_卷索引,人物,章纲,正文设计,资料}/
-    │   └── 04_简阵卷/{00_卷索引,人物,章纲,正文设计,资料}/
+    │   ├── 01_驭器卷/{00_卷索引,人物,章纲,正文设计,资料}/
+    │   ├── 02_化形卷/{00_卷索引,人物,章纲,正文设计,资料}/
+    │   ├── 03_简阵卷/{00_卷索引,人物,章纲,正文设计,资料}/
+    │   └── 04_明契卷/{00_卷索引,人物,章纲,正文设计,资料}/
     └── skills/                # 7 custom Claude Code skills
 ```
 
@@ -62,7 +62,7 @@ This project has 9 custom skills in `.claude/skills/`. Each skill encodes the pr
 
 | `.claude/` Directory | Was | Contains |
 |---|---|---|
-| `canon/` | `设定总集/` | Worldbuilding canon: laws, history, terminology, writing iron laws (files 00–23) |
+| `canon/` | `设定总集/` | Worldbuilding canon: laws, history, terminology, writing iron laws (files 00–24) |
 | `supplements/` | `卷外配套/` | Teaching supplements: per-chapter practice sheets, milestone tables, term indexes |
 | `workspace/` | `主卷/*/` (non-prose) | Per-volume: character cards, chapter outlines, body design docs, research notes |
 | `skills/` | `.claude/skills/` | Claude Code skill definitions |
@@ -71,16 +71,16 @@ When you need to read worldbuilding rules, start at `.claude/canon/`. When you n
 
 ## The Four Volumes
 
-| # | Volume | Language | Core Project | Chapters | Status |
+| # | Volume | Language | Core Project | Target Chapters | Status |
 |---|---|---|---|---|---|
-| 1 | 明契卷 | Rust | 青炉 | 30 + 序章 | ✅ Complete |
-| 2 | 驭器卷 | C++ | 玄枢 | 15 | ✅ Complete |
-| 3 | 化形卷 | Python | 息壤 | 15 | ✅ Complete |
-| 4 | 简阵卷 | Go | 驿河 | 15 | ✅ Complete |
+| 1 | 驭器卷 | C++ | 玄枢 | 120 | 🟡 Blueprint complete (15 chapters drafted) |
+| 2 | 化形卷 | Python | 息壤 | 120 | 🟡 Blueprint complete (15 chapters drafted) |
+| 3 | 简阵卷 | Go | 驿河 | 120 | 🟡 Blueprint complete (15 chapters drafted) |
+| 4 | 明契卷 | Rust | 青炉 | 120 + 序章 | 🟡 Blueprint complete (30 chapters drafted) |
 
-Reading/writing order: **明契 → 驭器 → 化形 → 简阵**
+Reading/writing order: **驭器 → 化形 → 简阵 → 明契**
 
-Together: **见病 → 追根 → 反照 → 结账** (see the disease → trace the root → reflect back → settle the account)
+Together: **见病 → 追根 → 反照 → 结账 → 传火** (see the disease in ancient strata → trace the root through modern layers → reflect between platforms → settle the account at the culmination → pass the flame)
 
 ## Per-Volume Workspace Structure
 
@@ -124,6 +124,7 @@ These are the constitution. All new content must satisfy them. Full text at `.cl
 - New concepts must hang off existing skeletons (式/流/契/史/域/层级链/核心机构)
 - Every new concept must answer: "what does it look like when it breaks?"
 - **Never replace real engineering terms** (Cargo, crate, trait, Result, CI, tracing, service, etc.) — worldbuilding terms explain these things' place in civilization, they do not rename them
+- **中文专有名词每次出现必须注英文原名** — All CS/math/engineering terms expressed in Chinese must carry their standard English name on **every** occurrence. Reference: `.claude/canon/24_世界术语-现实工程对照表.md`. Format: "所有权（ownership）", "健康检查（health check）"
 - Prioritize engineering conflicts over fantasy confrontations
 
 ### Chapter Design Workflow (6 steps)
@@ -169,18 +170,25 @@ If you can't answer at least two, the scene likely hasn't connected to the world
 - Index files: `00_XX索引.md`
 - Reference materials: `##_描述性名称.md`
 
-## Current Status (as of 2026-06)
+## Current Status (as of 2026-06-10)
 
-All four volumes have completed prose. Current priority tasks:
-1. Full-volume review of 明契卷 for plot logic, terminology consistency, and teaching sequence
-2. Launch 驭器卷 incident, character cards, and formal chapter outlines
-3. Push shared events into the latter three volumes' workspaces
+All four volumes have completed their initial draft prose at 15-30 chapters. The project has now been re-planned for **120 chapters per volume** (480 chapters total), following the `12卷 × 10章` architecture defined in `.claude/canon/23_四卷120章总蓝图.md`.
+
+Current priority tasks:
+1. Expand 驭器卷 from 15 to 120 chapters (new first volume — ancient C++ foundation)
+2. Expand 化形卷 from 15 to 120 chapters (second volume — modern Python ecosystem)
+3. Expand 简阵卷 from 15 to 120 chapters (third volume — Go platform engineering)
+4. Expand 明契卷 from 30 to 120 chapters (final volume — Rust culmination, serves as methodology template)
+5. Write chapter outlines (章纲) for all 480 chapters before drafting prose
+6. Update skills to handle 120-chapter scale (tension curves, cross-volume anchor tracking)
 
 ## Conflict Resolution Order
 
 When new content conflicts with existing files, defer to:
 1. `.claude/canon/01–05` — foundational worldbuilding
-2. `.claude/canon/08–12` — volume-level settings
-3. `.claude/canon/14` — 明契卷 chapter blueprint
-4. `.claude/canon/18` — four-path mapping and creation order
-5. `.claude/canon/15` — expansion and writing iron laws
+2. `.claude/canon/08–12` — volume-level settings (驭器/化形/简阵/明契)
+3. `.claude/canon/23` — 120-chapter master blueprint
+4. `.claude/canon/24` — CS/math term → English original mapping (铁律四之补充)
+5. `.claude/canon/14` — 明契卷 chapter blueprint (legacy 30-chapter, preserved as skeleton)
+6. `.claude/canon/18` — four-path mapping and creation order
+7. `.claude/canon/15` — expansion and writing iron laws
