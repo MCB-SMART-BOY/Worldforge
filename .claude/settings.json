@@ -14,11 +14,49 @@
       "Bash(python3:*)",
       "Bash(fish:*)",
       "Bash(echo:*)",
+      "Bash(seq:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(sort:*)",
+      "Bash(awk:*)",
       "Read",
       "Write",
       "Edit",
       "Glob",
       "Grep"
     ]
+  },
+  "project": {
+    "name": "万构界",
+    "type": "writing-project",
+    "language": "zh-CN",
+    "volumes": 4,
+    "totalChapters": 480,
+    "chaptersPerVolume": 120,
+    "sectionsPerVolume": 12,
+    "readingOrder": ["驭器卷", "化形卷", "简阵卷", "明契卷"]
+  },
+  "harness": {
+    "version": "1.0",
+    "activeWorkflow": "write-chapter",
+    "currentBatch": {
+      "volume": "驭器卷",
+      "chapters": "56-60",
+      "section": "卷六「旧桥」收束"
+    }
+  },
+  "writing": {
+    "wordsPerChapter": {
+      "min": 3000,
+      "max": 5000,
+      "unit": "characters"
+    },
+    "structure": "six-beat",
+    "terminologyRule": "cs-terms-must-have-english-originals",
+    "namingConvention": "第XX章_标题.md"
+  },
+  "git": {
+    "commitMessageFormat": "feat: {volume} Ch{start}-{end} {section}——{summary}",
+    "forbiddenInCommit": ["Co-Authored-By: Claude", "Co-Authored-By: AI", "Co-Authored-By: Anthropic"]
   }
 }
