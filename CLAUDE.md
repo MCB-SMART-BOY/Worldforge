@@ -29,7 +29,8 @@ This is a **writing project** — all files are Markdown. There is no build, lin
 └── .claude/                   # All internal reference material
     ├── README.md              # Internal architecture overview
     ├── settings.json          # Project-level Claude Code config
-    ├── canon/                 # Worldbuilding canon (was 设定总集/, files 00–23)
+    ├── harness/               # Harness engineering system (12 files)
+    ├── canon/                 # Worldbuilding canon (files 00–24)
     ├── supplements/           # Teaching practice sheets (was 卷外配套/)
     ├── workspace/             # Per-volume characters, outlines, design, research
     │   ├── 00_工作区说明.md
@@ -37,8 +38,7 @@ This is a **writing project** — all files are Markdown. There is no build, lin
     │   ├── 02_化形卷/{00_卷索引,人物,章纲,正文设计,资料}/
     │   ├── 03_简阵卷/{00_卷索引,人物,章纲,正文设计,资料}/
     │   └── 04_明契卷/{00_卷索引,人物,章纲,正文设计,资料}/
-    └── skills/                # 7 custom Claude Code skills
-```
+    └── skills/                # 9 custom Claude Code skills
 
 **Key principle**: Everything outside `正文/` is internal tooling. The root is clean — only chapters, README, LICENSE, and chapter index.
 
@@ -60,23 +60,24 @@ This project has 9 custom skills in `.claude/skills/`. Each skill encodes the pr
 
 ## Internal Reference Map
 
-| `.claude/` Directory | Was | Contains |
-|---|---|---|
-| `canon/` | `设定总集/` | Worldbuilding canon: laws, history, terminology, writing iron laws (files 00–24) |
-| `supplements/` | `卷外配套/` | Teaching supplements: per-chapter practice sheets, milestone tables, term indexes |
-| `workspace/` | `主卷/*/` (non-prose) | Per-volume: character cards, chapter outlines, body design docs, research notes |
-| `skills/` | `.claude/skills/` | Claude Code skill definitions |
+| `.claude/` Directory | Contains |
+|---|---|
+| `harness/` | Harness engineering system — pipeline, state machine, quality gates, command center |
+| `canon/` | Worldbuilding canon: laws, history, terminology, writing iron laws (files 00–24) |
+| `supplements/` | Teaching supplements: per-chapter practice sheets, milestone tables, term indexes |
+| `workspace/` | Per-volume: character cards, chapter outlines, body design docs, research notes |
+| `skills/` | Claude Code skill definitions |
 
 When you need to read worldbuilding rules, start at `.claude/canon/`. When you need character cards or outlines, look in `.claude/workspace/XX_YY卷/`.
 
 ## The Four Volumes
 
-| # | Volume | Language | Core Project | Target Chapters | Status |
+| # | Volume | Language | Core Project | Chapters | Status |
 |---|---|---|---|---|---|
-| 1 | 驭器卷 | C++ | 玄枢 | 120 | 🟢 章纲完成 (15/120 chapters drafted) |
-| 2 | 化形卷 | Python | 息壤 | 120 | 🟢 章纲完成 (15/120 chapters drafted) |
-| 3 | 简阵卷 | Go | 驿河 | 120 | 🟢 章纲完成 (15/120 chapters drafted) |
-| 4 | 明契卷 | Rust | 青炉 | 120 + 序章 | 🟢 章纲完成 (30/120 chapters drafted) |
+| 1 | 驭器卷 | C++ | 玄枢 | 120 | ✅ 正文完成 |
+| 2 | 化形卷 | Python | 息壤 | 120 | ✅ 正文完成 |
+| 3 | 简阵卷 | Go | 驿河 | 120 | ✅ 正文完成 |
+| 4 | 明契卷 | Rust | 青炉 | 120 + 序章 | ✅ 正文完成 |
 
 Reading/writing order: **驭器 → 化形 → 简阵 → 明契**
 
@@ -87,7 +88,7 @@ Together: **见病 → 追根 → 反照 → 结账 → 传火** (see the diseas
 Each volume under `.claude/workspace/` follows a five-layer structure:
 
 1. `00_卷索引.md` — Volume hub (character roster, chapter summaries, navigation)
-2. `人物/` — Character cards (主角, 镜像者, 守门者, etc.)
+2. `人物/` — Character cards (9-section template)
 3. `章纲/` — Formal chapter outlines and progress tracking
 4. `正文设计/` — Reading guides, sample scenes, climax drafts, structural design
 5. `资料/` — Incident prototypes, project archives, legacy asset inventories
@@ -170,24 +171,22 @@ If you can't answer at least two, the scene likely hasn't connected to the world
 - Index files: `00_XX索引.md`
 - Reference materials: `##_描述性名称.md`
 
-## Current Status (as of 2026-06-13)
+## Current Status (as of 2026-06-19)
 
-All four volumes have completed **120-chapter outlines (章纲)** — 52 files, ~1.4MB, ~12,400 lines. Cross-volume review and skills update complete. Prose remains at 15-30 chapters per volume.
+All four volumes — **480 chapters complete**. First phase of the 万构界 project finished.
 
-| Volume | Language | Chapters | 章纲 | Prose |
+| Volume | Language | Chapters | 章纲 | 正文 |
 |---|---|---|---|---|
-| 驭器卷 | C++ | 120 | ✅ | 15/120 |
-| 化形卷 | Python | 120 | ✅ | 15/120 |
-| 简阵卷 | Go | 120 | ✅ | 15/120 |
-| 明契卷 | Rust | 120 | ✅ | 30/120 + 序章 |
+| 驭器卷 | C++ | 120 | ✅ | ✅ |
+| 化形卷 | Python | 120 | ✅ | ✅ |
+| 简阵卷 | Go | 120 | ✅ | ✅ |
+| 明契卷 | Rust | 120 | ✅ | ✅ |
 
 Current priority tasks:
-1. Write prose (正文) — expand 驭器卷 from 15 to 120 chapters
-2. Write prose — expand 化形卷 from 15 to 120 chapters
-3. Write prose — expand 简阵卷 from 15 to 120 chapters
-4. Write prose — expand 明契卷 from 30 to 120 chapters
-5. Write chapter outlines (章纲) for all 480 chapters before drafting prose ✅ DONE
-6. Update skills to handle 120-chapter scale ✅ DONE
+1. ~~Write prose (正文) — expand all volumes to 120 chapters~~ ✅ DONE
+2. 卷外配套 — expand teaching practice sheets for new chapters
+3. 全系列审阅 — cross-volume review, terminology consistency, pacing audit
+4. 入门材料 — generate world primer, volume entries, reading guides for new readers
 
 ## Conflict Resolution Order
 
@@ -196,6 +195,4 @@ When new content conflicts with existing files, defer to:
 2. `.claude/canon/08–12` — volume-level settings (驭器/化形/简阵/明契)
 3. `.claude/canon/23` — 120-chapter master blueprint
 4. `.claude/canon/24` — CS/math term → English original mapping (铁律四之补充)
-5. `.claude/canon/14` — 明契卷 chapter blueprint (legacy 30-chapter, preserved as skeleton)
-6. `.claude/canon/18` — four-path mapping and creation order
-7. `.claude/canon/15` — expansion and writing iron laws
+5. `.claude/canon/15` — expansion and writing iron laws
