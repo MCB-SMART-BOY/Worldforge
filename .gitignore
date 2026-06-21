@@ -19,8 +19,3 @@ desktop.ini
 
 # 操作系统
 __MACOSX/
-
-# Claude Code session artifacts (not project files)
-.claude/plans/
-.claude/.session
-.claude/scheduled_tasks.json
