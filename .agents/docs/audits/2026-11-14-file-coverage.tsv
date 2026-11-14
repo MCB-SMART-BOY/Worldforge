@@ -1,0 +1,335 @@
+path	extension	area	review_status	findings
+.agents/README.md	.md	.agents-root	已更新	补充未写求式剧情提案的入口，声明其提案效力并维持实时账本状态权威。
+.agents/canon/00_总览与使用说明.md	.md	canon	已按审计修订	新增内容的边界检查仅适用于推动因果或改变世界运行的规则；普通术语、道具、意象和人物假说不强制归相、定层级或补写失守形态。
+.agents/canon/01_万构界总纲与四相法则.md	.md	canon	已按审计修订	创世条约四项整体降为早期起源模型；§17校验问题已改为因果规则/相关人物选择的按需诊断，普通名词、道具、意象和人物假说可跳过。详见 canon-revision。
+.agents/canon/02_对象层级_机构_域与宿域.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/03_诸道总纲_道统名录.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/04_诸道显世史与历史地图.md	.md	canon	已按审计修订	三层历史、创世约、四蚀免疫和修补者战争统改为早期方案/假说；正文可观察失守现象与来源解释分开。详见 canon-revision。
+.agents/canon/05_共构机制_工程映射_冲突规则.md	.md	canon	已按审计修订	新规则仅在推动因果或改变世界运行时，需说明适用边界、触发条件与失效后果；普通内容不强制套用。
+.agents/canon/06_人物谱系总则.md	.md	canon	已按审计修订	修补者谱系、跨卷成员、师承和终局弧线明示为历史方案；相似行为不推定共同来源。详见 canon-revision。
+.agents/canon/07_术语索引与关系总表.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/08_四大主卷设定总览.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/09_驭器卷设定细化.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/10_化形卷设定细化.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/11_简阵卷设定细化.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/12_明契卷设定细化.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/13_后续工作路线图.md	.md	canon	已更新历史边界	旧路线、已完成清单与推进顺序改标为历史规划；同步明契索引覆盖现状和八卷边界。
+.agents/canon/14_明契卷十卷三十章蓝图.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/15_设定扩展与写作铁律.md	.md	canon	已按审计修订	将“所有概念都须有失守形态”收窄为推动因果的规则说明适用范围、触发条件与失效后果；普通名词、意象、人物假说及章节诊断步骤按需处理；未决正典见 canon-revision 报告。
+.agents/canon/16_系列命名与卷名体系.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/17_四大主卷主角模板.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/18_四主道特性_工程优缺点_玩梗映射.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/19_教学型长篇总蓝图.md	.md	canon	已按审计修订	已将“每章交付物”改为可由工程、人物、情节或氛围承担，不强制统一模板。
+.agents/canon/20_四卷学习目标_项目目标_思想命题对照表.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/21_卷外配套系统与模板说明.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/22_第一阶段四卷共享事件表.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/23_四卷120章总蓝图.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/23_基座谱系与七基座.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/24_世界术语-现实工程对照表.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/25_第二阶段五卷蓝图.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/canon/26_全系列叙事架构与锚点账本.md	.md	canon	已更新	A2增加不预设次数的新增观察提案；R-14同步记录时间/声明生效/实际推广边界并链接现行章纲。
+.agents/canon/README.md	.md	canon	已按审计修订	已修订效力/范围、顺序、链接、术语或结构问题；未证事实保留为提案/假说，未决项见 canon-revision 报告。
+.agents/docs/README.md	.md	docs	后续维护已更新	明确报告与覆盖表记录各自审计时点，不替代当前索引、canon和实时账本。
+.agents/docs/audits/2026-11-14-canon-audit.md	.md	audits	已全文审阅	新增回写状态，注明 canon15/24 与四卷旧章纲已经修订；不再沿用“未修改canon正文”的初审快照。
+.agents/docs/audits/2026-11-14-canon-revision.md	.md	audits	已全文阅读	依据 canon 审计修订记录核验；保留待证设定与跨卷信号边界。
+.agents/docs/audits/2026-11-14-file-coverage.tsv	.tsv	audits	已审	资料覆盖清单自身；逐条覆盖含本次新增剧情蓝图在内的所有现存.agents文件及根入口。
+.agents/docs/audits/2026-11-14-harness-skills-audit.md	.md	audits	后续维护已更新	记载早期审计发现及后续修订；当前后续校正已记录docs索引、工作流去重与跨harness路由。
+.agents/docs/audits/2026-11-14-manuscript-coverage.tsv	.tsv	audits	已创建并用于进行中审阅	覆盖八卷根目录808个Markdown文件；按真实阅读进度更新，待读不视为已审。
+.agents/docs/audits/2026-11-14-manuscript-volumes-01-02.md	.md	audits	已全文审阅、修订并回读	01–02卷294/294篇已核读；指定24篇的作者章号/卷段自指已改为事件或物件表达，实体索引卷号保留；10篇未映射稿仍待作者分类。
+.agents/docs/audits/2026-11-14-manuscript-volumes-03-04.md	.md	audits	已全文审阅、修订并回读	03/04卷287/287篇已核读；完成正式正文作者章号与卷段自指清理；明契卷30章索引与120章蓝图映射仍待作者裁定。
+.agents/docs/audits/2026-11-14-manuscript-volumes-05-08.md	.md	audits	已全文审阅、修订并回读	覆盖05–08卷227/227篇；三项高置信问题已修正，正式正文章号式作者导航复扫为0。
+.agents/docs/audits/2026-11-14-project-audit-synthesis.md	.md	audits	后续维护已更新	保留初次汇总统计并新增时点提示；更正Ch43–60已形成初稿并逐批回读的后续状态。
+.agents/docs/audits/2026-11-14-supplements-audit.md	.md	audits	已全文审阅并追加修订记录	覆盖113份配套资料；记录96份源文件修订范围，另17份仅审阅，剧情事实仍待正文逐项核对。
+.agents/docs/audits/2026-11-14-workspace-audit.md	.md	audits	后续维护已更新	新增审计时点说明；更新求式卷索引/正文状态的当前指向，同时保留旧时点数字。
+.agents/docs/audits/2026-11-14-workspace-late-volumes-audit.md	.md	audits	已全文审阅	覆盖明契设计/章纲/资料及容断、通界、守序索引；记载章号、事故、技术边界和跨卷推断问题。
+.agents/docs/superpowers/plans/2026-11-14-agent-workflow-and-entry-consolidation.md	.md	docs	已全文审阅	完成根入口、旧目录归档与跨harness工作流迁移的历史实施记录。
+.agents/docs/superpowers/plans/2026-11-14-agents-content-and-narrative-audit.md	.md	docs	已完成	完成六项工作；新增未写剧情的多线伏笔蓝图并完成独立复核与最终静态验收。
+.agents/docs/superpowers/plans/2026-11-14-cross-harness-project-layout.md	.md	docs	已全文审阅	完成迁移方案/历史计划；路径现状由活动入口裁定，勾选项为过往实施记录。
+.agents/docs/superpowers/specs/2026-11-14-agents-content-and-narrative-audit.md	.md	docs	已完成并回写	明确全量资料审阅、证据边界，以及未写剧情至少三条互相照应回收线与一处二阶回读的交付约束。
+.agents/docs/superpowers/specs/2026-11-14-cross-harness-project-layout.md	.md	docs	已全文审阅	完成迁移方案/历史计划；路径现状由活动入口裁定，勾选项为过往实施记录。
+.agents/harness/00_架构总图.md	.md	harness	已全文审阅	发现与 canon15/24 术语标注、结构门槛适配、四卷旧假设等问题；具体证据及优先级见 .agents/docs/audits/2026-11-14-harness-skills-audit.md。已核 Markdown 相对链接目标。
+.agents/harness/01_流水线.md	.md	harness	后续维护已更新	章节流程保留阶段目标与步骤；阶段质量标准统一链接03_质量门.md，避免重复维护检查清单。
+.agents/harness/02_状态机.md	.md	harness	后续维护已更新	注明流程图仅为正文常见关系示意，各类产物独立流转，不要求每章生成所有产物。
+.agents/harness/03_质量门.md	.md	harness	已全文审阅并更新	三总裁定按内容适用；W2仅检查推动因果的规则边界，普通名词、意象和人物假说可标不适用；静场不强造张力。
+.agents/harness/04_命令中心.md	.md	harness	已全文审阅并对齐	技能输出描述同步为按需结构/范围审阅；与流水线、质量门的适用性口径一致。
+.agents/harness/05_模板注册表.md	.md	harness	已全文审阅	发现与 canon15/24 术语标注、结构门槛适配、四卷旧假设等问题；具体证据及优先级见 .agents/docs/audits/2026-11-14-harness-skills-audit.md。已核 Markdown 相对链接目标。
+.agents/harness/06_会话协议.md	.md	harness	已全文审阅	发现与 canon15/24 术语标注、结构门槛适配、四卷旧假设等问题；具体证据及优先级见 .agents/docs/audits/2026-11-14-harness-skills-audit.md。已核 Markdown 相对链接目标。
+.agents/harness/07_进度面板.md	.md	harness	已全文审阅	发现与 canon15/24 术语标注、结构门槛适配、四卷旧假设等问题；具体证据及优先级见 .agents/docs/audits/2026-11-14-harness-skills-audit.md。已核 Markdown 相对链接目标。
+.agents/harness/08_自动化.md	.md	harness	已全文审阅	发现与 canon15/24 术语标注、结构门槛适配、四卷旧假设等问题；具体证据及优先级见 .agents/docs/audits/2026-11-14-harness-skills-audit.md。已核 Markdown 相对链接目标。
+.agents/harness/09_集成验证.md	.md	harness	已全文审阅	发现与 canon15/24 术语标注、结构门槛适配、四卷旧假设等问题；具体证据及优先级见 .agents/docs/audits/2026-11-14-harness-skills-audit.md。已核 Markdown 相对链接目标。
+.agents/harness/10_运维手册.md	.md	harness	后续维护已更新	补充技能行为变更的场景验证；普通技能登记仅更新命令中心/入口，架构图仅在关系变化时更新。
+.agents/harness/11_操作工作流.md	.md	harness	后续维护已更新	重整为总任务闭环与任务路由；说明跨 harness 技能调用方式，加入未完成目标继续推进，质量门链接到唯一标准。
+.agents/harness/12_多代理协作与交接.md	.md	harness	已全文审阅	发现与 canon15/24 术语标注、结构门槛适配、四卷旧假设等问题；具体证据及优先级见 .agents/docs/audits/2026-11-14-harness-skills-audit.md。已核 Markdown 相对链接目标。
+.agents/harness/README.md	.md	harness	后续维护已更新	压缩为harness文件导航；架构关系见00，任务闭环见11，当前状态见实时账本。
+.agents/legacy/CLAUDE.md.archive.md	.md	legacy	已全文审阅（只读归档）	已逐份阅读全文并确认其为迁移前的Claude专属说明/配置；保留原文，仅由legacy/README界定为非活动指令。
+.agents/legacy/README.md	.md	legacy	已全文审阅（只读归档）	已逐份阅读全文并确认其为迁移前的Claude专属说明/配置；保留原文，仅由legacy/README界定为非活动指令。
+.agents/legacy/claude-reference-architecture.archive.md	.md	legacy	已全文审阅（只读归档）	已逐份阅读全文并确认其为迁移前的Claude专属说明/配置；保留原文，仅由legacy/README界定为非活动指令。
+.agents/legacy/claude-settings.json	.json	legacy	已全文审阅（只读归档）	已逐份阅读全文并确认其为迁移前的Claude专属说明/配置；保留原文，仅由legacy/README界定为非活动指令。
+.agents/legacy/harness-README.archive.md	.md	legacy	已全文审阅（只读归档）	已逐份阅读全文并确认其为迁移前的Claude专属说明/配置；保留原文，仅由legacy/README界定为非活动指令。
+.agents/skills/audit-volume/SKILL.md	.md	skills	已按审计修订	已按 harness-skills 审计修订：术语按首次引入/必要重标；结构、张力和数量按需；canon22 限于第一阶段历史参考；保留用途与模板。详见 .agents/docs/audits/2026-11-14-harness-skills-audit.md 修订回写。
+.agents/skills/check-canon/SKILL.md	.md	skills	已修订并压力复核	规则正文按适用条件区分顶层法则、普通概念与因果规则；基线/当前版五场景盲测。首轮发现输出模板残留二元归类及固定计数警告，已改为按适用项并删阈值；第二轮复测通过，无模板回退。详见 .agents/docs/audits/2026-11-14-harness-skills-audit.md。
+.agents/skills/check-cross-volume/SKILL.md	.md	skills	已按审计修订	已按 harness-skills 审计修订：术语按首次引入/必要重标；结构、张力和数量按需；canon22 限于第一阶段历史参考；保留用途与模板。详见 .agents/docs/audits/2026-11-14-harness-skills-audit.md 修订回写。
+.agents/skills/craft-scene/SKILL.md	.md	skills	已按审计修订	已按 harness-skills 审计修订：术语按首次引入/必要重标；结构、张力和数量按需；canon22 限于第一阶段历史参考；保留用途与模板。详见 .agents/docs/audits/2026-11-14-harness-skills-audit.md 修订回写。
+.agents/skills/design-chapter/SKILL.md	.md	skills	已按审计修订	对象层按需定位；仅在规则推动因果或改变世界运行时检查相与失守边界；技能描述改为触发条件，不暗示固定栏目。其他修订见 harness-skills 审计。
+.agents/skills/gen-character/SKILL.md	.md	skills	已按审计修订	已按 harness-skills 审计修订：术语按首次引入/必要重标；结构、张力和数量按需；canon22 限于第一阶段历史参考；保留用途与模板。详见 .agents/docs/audits/2026-11-14-harness-skills-audit.md 修订回写。
+.agents/skills/gen-entry/SKILL.md	.md	skills	后续维护已更新	修复 World Primer 过期路由：指向现有世界入门稿和配套索引；同场景基线误路由 README，复测通过。
+.agents/skills/gen-practice/SKILL.md	.md	skills	后续维护已更新	修复占位目录建议；要求先查目标卷现有目录和索引，归属不明时先建议，不自动创建。
+.agents/skills/review-chapter/SKILL.md	.md	skills	已按审计修订	核心清单已对齐 canon15；技能描述只列触发场景。仅对推动因果的规则检查范围、触发条件与失效后果；普通名词、意象和人物假说可标“不适用”。
+.agents/supplements/00_配套索引.md	.md	supplements	已逐项审阅	现行总导航（少量措辞待校）；整体路径和资料优先级有用；“历史状态/当前可用”字段需与分卷索引一致，确保不把旧练习当作现行配套。
+.agents/supplements/01_章节实践单_模板.md	.md	supplements	已逐项审阅并修订	加入索引/正文来源与案例效力字段；固定时间、数量及强制回链改为可调判据。
+.agents/supplements/01_驭器卷/00_配套索引.md	.md	supplements	已逐项审阅并修订	补齐目录与旧稿映射；明确历史效力/索引限制，避免以文件名推断正文状态。剧情细节仍须正文核验。
+.agents/supplements/01_驭器卷/01_章节实践单_第01章_重器不眠.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/02_章节实践单_第02章_断火.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/03_章节实践单_第03章_托火.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/04_章节实践单_第04章_空位.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/05_章节实践单_第05章_旧骨.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/06_章节实践单_第06章_秘义.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/07_章节实践单_第07章_石录之下.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/08_章节实践单_第08章_三年前的修正.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/09_章节实践单_第09章_旧桥谱系.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/10_章节实践单_第10章_先照后立.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/11_章节实践单_第11章_纸墙.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/12_章节实践单_第12章_交钥之前.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/13_章节实践单_第13章_阶梯.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/14_章节实践单_第14章_旧火新桥.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/15_章节实践单_第15章_传火.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/01_驭器卷/驭器卷_入卷指南.md	.md	supplements	已逐项审阅	现行阅读导读，事实需核；链接正式120章索引且标明旧蓝图边界，具体人物动机、年限、桥状态仍须回读核实。
+.agents/supplements/01_驭器卷/驭器卷_全卷里程碑.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/01_驭器卷/驭器卷_卷级项目里程碑表.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/01_驭器卷/驭器卷_术语_工具_最小索引.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/02_化形卷/00_配套索引.md	.md	supplements	已逐项审阅并修订	补齐目录与旧稿映射；明确历史效力/索引限制，避免以文件名推断正文状态。剧情细节仍须正文核验。
+.agents/supplements/02_化形卷/01_章节实践单_第01章_这边能跑.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/02_章节实践单_第02章_先看见形.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/03_章节实践单_第03章_灵火高奖赏.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/04_章节实践单_第04章_上周还能跑.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/05_章节实践单_第05章_脚本林.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/06_章节实践单_第06章_神谕与迷雾.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/07_章节实践单_第07章_壳与门.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/08_章节实践单_第08章_桥不是路.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/09_章节实践单_第09章_最低限度的存在.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/10_章节实践单_第10章_删桥.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/11_章节实践单_第11章_火种与废土.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/12_章节实践单_第12章_给未来留一个入口.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/13_章节实践单_第13章_三层息壤.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/14_章节实践单_第14章_慢一步活得更久.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/15_章节实践单_第15章_后来者的第一步.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/02_化形卷/化形卷_入卷指南.md	.md	supplements	已逐项审阅	旧章映射导读（需事实回核）；主体用旧15章标题和十二段划分；现代索引指出正式Ch01–15已重排，人物/场景概括和静态锚点需按现行章回核。
+.agents/supplements/02_化形卷/化形卷_全卷里程碑.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/02_化形卷/化形卷_卷级项目里程碑表.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/02_化形卷/化形卷_术语_工具_最小索引.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/02_卷级项目里程碑表_模板.md	.md	supplements	已逐项审阅并修订	加入索引/正文来源与案例效力字段；固定时间、数量及强制回链改为可调判据。
+.agents/supplements/03_术语_工具_最小索引_模板.md	.md	supplements	已逐项审阅并修订	加入索引/正文来源与案例效力字段；固定时间、数量及强制回链改为可调判据。
+.agents/supplements/03_简阵卷/00_配套索引.md	.md	supplements	已逐项审阅并修订	补齐目录与旧稿映射；明确历史效力/索引限制，避免以文件名推断正文状态。剧情细节仍须正文核验。
+.agents/supplements/03_简阵卷/01_章节实践单_第01章_扩域.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/02_章节实践单_第02章_绿色不意味着活着.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/03_章节实践单_第03章_谁在值班.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/04_章节实践单_第04章_失明.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/05_章节实践单_第05章_依赖图.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/06_章节实践单_第06章_看得见的与看不见的.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/07_章节实践单_第07章_边界.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/08_章节实践单_第08章_不是越快越好.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/09_章节实践单_第09章_回滚有路.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/10_章节实践单_第10章_删模版.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/11_章节实践单_第11章_默认值.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/12_章节实践单_第12章_少即是多.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/13_章节实践单_第13章_新手接住.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/14_章节实践单_第14章_不是一个人的平台.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/15_章节实践单_第15章_成阵.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/03_简阵卷/简阵卷_入卷指南.md	.md	supplements	已逐项审阅	旧15章导读（情节锚点高风险）；按旧章阶段写阅读建议；“制度vs空白”旧Ch75已映射正式Ch95–97，石镜/四人召集位置和远古告警细节按canon26/正式正文核。
+.agents/supplements/03_简阵卷/简阵卷_全卷里程碑.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/03_简阵卷/简阵卷_卷级项目里程碑表.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/03_简阵卷/简阵卷_术语_工具_最小索引.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/04_明契卷/00_配套索引.md	.md	supplements	已逐项审阅并修订	补齐目录与旧稿映射；明确历史效力/索引限制，避免以文件名推断正文状态。剧情细节仍须正文核验。
+.agents/supplements/04_明契卷/01_章节实践单_第01章_凡火未明_问题从何而来.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/02_章节实践单_第02章_立炉之前_边界先行.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/03_章节实践单_第03章_选道而行_为什么是Rust.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/04_章节实践单_第04章_铸炉开篇_工具链不是安装包.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/05_章节实践单_第05章_一纸丹方_Cargo_toml里的工程世界.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/06_章节实践单_第06章_气入经脉_所有权不是语法.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/07_章节实践单_第07章_术有门径_函数模块与职责分离.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/08_章节实践单_第08章_辨药识毒_错误的正名.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/09_章节实践单_第09章_初成器胚_第一个可用版本如何诞生.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/10_青炉_卷级项目里程碑表.md	.md	supplements	已逐项审阅	现行卷级母档；按120章设计的阶段结构可参考，但章段绑定需对照正文索引、工作区细纲与正文回核。
+.agents/supplements/04_明契卷/11_明契卷_术语_工具_最小索引.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/04_明契卷/12_章节实践单_第10章_骨架初定_目录结构与核心抽离.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/13_章节实践单_第11章_炉候可调_配置环境与命令行参数.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/14_章节实践单_第12章_经卷留痕_文档注释与项目记忆.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/15_章节实践单_第13章_契口分层_CLI不等于万能入口.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/16_章节实践单_第14章_宗门初立_workspace与多crate协同.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/17_章节实践单_第15章_阵法有门_trait泛型与抽象的节制.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/18_章节实践单_第16章_留影为史_Git不只是备份.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/19_章节实践单_第17章_千里传书_远端仓库与协作秩序.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/20_章节实践单_第18章_门规初成_提交规范评审文化与新人接引.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/21_章节实践单_第19章_肉身不坏_内存安全的真实含义.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/22_章节实践单_第20章_心魔难驯_并发安全与共享状态的代价.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/23_章节实践单_第21章_禁术与誓约_unsafe_FFI与责任边界.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/24_章节实践单_第22章_器成可试_测试体系与可靠性证明.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/25_章节实践单_第23章_法宝传世_版本号变更日志与发布承诺.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/26_章节实践单_第24章_开炉布道_crate发布二进制交付与用户入口.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/27_章节实践单_第25章_入世之后_程序如何真正活着.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/28_章节实践单_第26章_观天察地_日志追踪指标与可诊断系统.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/29_章节实践单_第27章_旧劫未消_兼容重构技术债与演进之术.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/30_章节实践单_第28章_大道重拙_显式与约束为什么值得.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/31_章节实践单_第29章_术与道争_何时该用Rust何时不该用Rust.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/32_章节实践单_第30章_百炼终成_从写代码的人到立道之人.md	.md	supplements	已逐项审阅并修订	已标旧稿章号、章纲映射依据和未核剧情边界；尚未逐篇与正式正文对读，旧情节不作为正典。
+.agents/supplements/04_明契卷/明契卷_入卷指南.md	.md	supplements	已逐项审阅	旧30章导读（当前结构混用）；人物弧线和章段覆盖来自旧蓝图，正式索引现仅列30章的主题目标、全卷120章章纲尚未展示；静态章号/人物命运须对照现行正文和canon26。
+.agents/supplements/04_明契卷/明契卷_全卷里程碑.md	.md	supplements	已逐项审阅并修订	补充历史设计/旧章号效力说明；不作为当前进度、现行章序或正式首现位置的来源。
+.agents/supplements/_草稿模板/README.md	.md	supplements	已逐项审阅并修订	将旧草稿清单从“未写”改为主题映射/效力状态；待核假说和历史草稿不得因正文存在升级为正典。
+.agents/supplements/_草稿模板/实践单_Ch102_季晚禾的第一步.md	.md	supplements	已逐项审阅	旧编号错误风险高；季晚禾第一步这一主题在旧映射指向正式化形Ch101，不是据文件名的Ch102；需重标目标并对照Ch101–102现行正文。
+.agents/supplements/_草稿模板/实践单_Ch106_石镜.md	.md	supplements	已逐项审阅	明确历史草稿；已写明旧章纲和不代表现行映射；四人石镜内容须以简阵正式Ch104–108与锚点账本为准，继续保留免责声明。
+.agents/supplements/_草稿模板/实践单_Ch25_远古告警.md	.md	supplements	已逐项审阅	未证旧号草稿；远古告警的事件/编号/11,742次及“执约人=未回应角色”不能依旧文件名认定；对照正式简阵Ch102–108及canon，未证内容维持假说。
+.agents/supplements/_草稿模板/实践单_Ch43_goroutine泄漏.md	.md	supplements	已逐项审阅	未证旧号草稿；goroutine泄漏及113个、每周涨3%等数据为旧稿设定；正式简阵相应现行章节不由文件号确立，需核正文/章纲后才能作教学案例。
+.agents/supplements/_草稿模板/实践单_Ch47_残码.md	.md	supplements	已逐项审阅	历史草稿、主题对位较强；主题与正式驭器Ch47《残码》相符；关于创始者、数百年、跨卷相似文本等均不得写成事实，当前已注明来源/作者未证，保留此边界。
+.agents/supplements/_草稿模板/实践单_Ch55_收到runbook.md	.md	supplements	已逐项审阅	历史草稿、目标主题对位；化形正式Ch55也为《收到runbook》；第三步/11个待确认等细节须对照现行Ch55–58及账本，当前样本不是事实来源。
+.agents/supplements/_草稿模板/实践单_Ch61_先照后立.md	.md	supplements	已逐项审阅	历史草稿、主题对位较强；正式驭器Ch61同题；“钟师脑子是唯一观测面板”等概括应作为练习视角而非定论，监控/观测定义避免二分过度。
+.agents/supplements/_草稿模板/实践单_Ch78_收到传讯.md	.md	supplements	已逐项审阅	旧编号目标错位；“收到传讯”是明契正式Ch78，但明契旧Ch78草稿主题来自旧30章映射中的后段材料；不得从该编号继承剧情。故事中诊断报告内容需核对正式Ch75–78。
+.agents/supplements/_草稿模板/实践单_Ch86_放弃写清楚.md	.md	supplements	已逐项审阅	旧编号目标错位；旧明契Ch28映射至正式Ch94；四人四道放弃的汇总时间/次序不能套用旧Ch86，需对照正式明契Ch86–95与简阵石镜锚点。
+.agents/supplements/世界入门_万构界是什么.md	.md	supplements	已逐项审阅	读者入口（部分概括待证）；首阶段四卷概览作为导读；“每一章前500字”等应写成写作目标而非普遍事实，首轮结构说明/层级称呼须对照根README和canon。
+.agents/supplements/术语速查_世界vs工程.md	.md	supplements	已逐项审阅	现行辅助速查（章节锚点不可信）；对照表可帮助理解，但人物/世界术语定义须回查canon；不提供正式章号的策略正确。明确比喻不是一对一工程事实。
+.agents/supplements/章节实践单_通用模板.md	.md	supplements	已逐项审阅并修订	加入索引/正文来源与案例效力字段；固定时间、数量及强制回链改为可调判据。
+.agents/supplements/阅读指南_全系列.md	.md	supplements	已逐项审阅并修订	限定为第一阶段四卷主题导读，明确明契索引不完整；旧蓝图分段与待证锚点不冒充现行情节事实。
+.agents/workspace/00_工作区说明.md	.md	workspace	已全文审阅并更新	改为八卷工作区导航，明确正文索引/实时账本/章纲效力；旧四主卷文本完整归档。
+.agents/workspace/00_工作区说明/扩展路线图_76to120.md	.md	workspace	已全文读	文件已标历史计划；保留作方案史，不据其76/120/480章数安排现行写作。
+.agents/workspace/01_驭器卷/00_卷索引.md	.md	workspace	已全文读	120章蓝图和主线大体对位；状态表却仍称12卷章纲待建，与现存章纲/已核读120章冲突。
+.agents/workspace/01_驭器卷/人物/00_人物索引.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/01_驭器卷/人物/01_主角_暂名纪承钧.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/01_驭器卷/人物/02_镜像者_暂名卫千枢.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/01_驭器卷/人物/03_守门者_暂名钟守玄.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/01_驭器卷/人物/04_观象者_暂名沈照痕.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/01_驭器卷/人物/05_继承者_暂名陆踏痕.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/01_驭器卷/正文设计/00_正文设计说明.md	.md	workspace	已全文读	设计参考与写作示例，不等于已发生的正典情节；使用前对照现行正文索引和canon。
+.agents/workspace/01_驭器卷/章纲/00_章纲索引.md	.md	workspace	已全文读	早期术语表改为参考；英文原名、工程映射、读者负荷、三问和工程事故触发均改为按需判断。
+.agents/workspace/01_驭器卷/章纲/01_卷一_重器.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/01_正式章纲_推进总表.md	.md	workspace	已全文读	文件内“正式”是历史命名，不自动代表现行章序；保留其设计价值，映射前核对当前索引。
+.agents/workspace/01_驭器卷/章纲/02_卷二_追火.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/03_卷三_空位.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/04_卷四_旧骨.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/05_卷五_秘义.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/06_卷六_旧桥.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/07_卷七_观象.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/08_卷八_纸墙.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/09_卷九_交钥.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/10_卷十_阶梯.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/11_卷十一_传火.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/章纲/12_卷十二_旧火新桥.md	.md	workspace	已全文读	本文件提供章节主题、人物焦点和六拍骨架；完整120章方案与当前正文映射可能错位，不能按文件序号直接套用。
+.agents/workspace/01_驭器卷/资料/00_资料索引.md	.md	workspace	已全文读	支持工程与情节设计的资料，不直接作为已发生剧情；须区分原始证据、角色推断与作者假设。
+.agents/workspace/01_驭器卷/资料/01_开局事故原型_玄枢断火险情.md	.md	workspace	已全文读	支持工程与情节设计的资料，不直接作为已发生剧情；须区分原始证据、角色推断与作者假设。
+.agents/workspace/02_化形卷/00_卷索引.md	.md	workspace	已全文读	120章蓝图目录，但多处摘要落后于细纲：Ch87仍写重试扩散/连锁降级，Ch91标题与新细纲不同，Ch106仍断言“故意不整理”传承链；正文骨架章编号也须按正式正文索引复核。
+.agents/workspace/02_化形卷/人物/00_人物索引.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/01_主角_暂名周栖野.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/02_镜像者_暂名唐野渡.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/03_守门者_暂名叶藏拙.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/04_审契者_暂名宋既明.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/05_失传者_暂名林过川.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/06_继承者_暂名白又新.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/07_同门者_暂名岑照渠.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/08_使用者_暂名季晚禾.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/09_渡桥人_暂名顾迁舟.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/10_诱惑者_暂名谢催成.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/人物/90_关系链总表.md	.md	workspace	已全文读	设计意图与关系参考；身份/关系不能凌驾于当前正文和canon，发现同名、师承或跨卷回声时须保留证据等级。
+.agents/workspace/02_化形卷/正文设计/00_正文设计说明.md	.md	workspace	已全文读	仅两段，仍指向按“第一/二/三部”命名的建议阶段文件，当前目录并不存在这些稿件；入口文案需避免误导。
+.agents/workspace/02_化形卷/章纲/00_章纲索引.md	.md	workspace	已全文读	术语标注、工程演进和读者负荷改为按需检查；数量不设固定门槛，工具引入不强制由事故驱动。
+.agents/workspace/02_化形卷/章纲/01_卷一_点火.md	.md	workspace	已全文读	Ch01–10把“快捷救场”因果写得清楚；需核对章节时间跨度、脚本数增长与前提记录，部分技术断言过于绝对。
+.agents/workspace/02_化形卷/章纲/01_正式章纲_五幕十五章.md	.md	workspace	已全文读	文件明确是五幕15章旧稿、迁移映射见120章索引；保留探索/归约/留路弧线有价值，人物与事件位置已被压缩蓝图重排，不能据此认定正文事实或现行章节。
+.agents/workspace/02_化形卷/章纲/02_卷二_沼泽.md	.md	workspace	已全文读	Ch11–20形成环境漂移—记录—分层的因果链；Ch12把3.9 dict顺序/f-string差异写错，脚本规模由23跳至140需补时间与盘点口径。
+.agents/workspace/02_化形卷/章纲/03_卷三_遗迹.md	.md	workspace	已全文读	Ch25–29已谨慎区分三段残码的不同障碍、角色推断与未知；Ch21–24仍有“林过川遗言/意图”作为事实的过度定论风险。
+.agents/workspace/02_化形卷/章纲/04_卷四_图层.md	.md	workspace	已全文读	三层从图纸到治理角色有推进；固定“pytest覆盖率>80%”、三年兼容承诺和一次建成的环境/工具方案需角色共同承担并标范围。
+.agents/workspace/02_化形卷/章纲/05_卷五_桥账.md	.md	workspace	已全文读	桥账因果线完整，但Ch41–43分类被写成按shim/adapter/bridge类型直接决定删留，Ch42把未知桥直接推断到三年前事故；Ch44–45类型检查效果过度承诺。
+.agents/workspace/02_化形卷/章纲/06_卷六_删桥.md	.md	workspace	已全文读	Ch55–57让操作者在11项无法验证时仍继续权威runbook，决策不安全且权责不清；Ch59公开原文、标记和回信应考虑保密/授权边界，Ch60的两已退场/两迁移/三永久需与前文逐桥状态对账。
+.agents/workspace/02_化形卷/章纲/07_卷七_火种.md	.md	workspace	已全文读	Ch61–70把遗迹整理收束为继承主题；Ch67突然出现明确林过川信仰笔记，和角色卡/编辑记录中的动机未知冲突，需有可核验来源并区分事实与解释；Ch66“无需问人”又与其依赖的人工制度冲突。
+.agents/workspace/02_化形卷/章纲/08_卷八_分层.md	.md	workspace	已全文读	三层治理弧线完整且Ch80补制度复审；Ch71“无需知道历史只需遵守”与公共可质疑制度相冲突，Ch72–74对异步/类型/契约有绝对化表达，Ch79稳定10/10是不可兑现指标。
+.agents/workspace/02_化形卷/章纲/09_卷九_固核.md	.md	workspace	已全文读	Ch81–90区分了息壤观测、驿河预算和实测；仍需限定“固核全量审完”并非稳定保证，Ch83把ruff规则道德化，Ch90以“他知道不知道”推断林过川心理需证据。
+.agents/workspace/02_化形卷/章纲/10_卷十_慢火.md	.md	workspace	已全文读	Ch91–100让速度/制度争论分阶段展开；Ch92“宣言”与Ch91暂存待议不吻合，Ch98将依赖声明责任过度压给引用者，Ch100将技术背景角色称“纯新人”与白又新经验表述需厘清。
+.agents/workspace/02_化形卷/章纲/11_卷十一_入口.md	.md	workspace	已全文读	Ch101–110已有审慎限定和跨卷候选状态；Ch109仍把三段残码写成作者“想要交接协议”但失败，证据不足；“交接协议已完成”须限定为息壤当前流程。
+.agents/workspace/02_化形卷/章纲/12_卷十二_后来者.md	.md	workspace	已全文读	Ch111–120余韵有审慎限制，但Ch115旧桥数量状态与Ch60的2退场/2迁移/3永久冲突，Ch118宣称谱系循环已中断证据不足，Ch119称OOM已修复需接收方验证，Ch120写“101章”及“没有空白”与120章/诚实未知主题相冲突。
+.agents/workspace/02_化形卷/资料/00_资料索引.md	.md	workspace	已全文读	只含目录定位与两项文件链接；未标来源证据等级，事故原型是否来自真实案例需在正文转化时注明作者综合/虚构。
+.agents/workspace/02_化形卷/资料/01_事故原型与工程映照.md	.md	workspace	已全文读	五个事故模板给出教学/角色用途，但不是带来源的真实案例；“事故必须来自真实场景”与未列出处存在落差，剧情映射应作为设计假设而非事实记录。
+.agents/workspace/02_化形卷/资料/02_玩梗即教学桥段清单.md	.md	workspace	已全文读	六类桥段与人物/幕位绑定明确，且有避免嘲笑新手、归咎动态语言的边界；“明契卷回收”“驭器卷回收”等跨卷接口仍是规划建议，须查当前卷序与人物状态。
+.agents/workspace/03_简阵卷/00_卷索引.md	.md	workspace	已全文读	120章卷目录和正式正文状态表已较详尽；Ch68、Ch91等特别限定需由章纲/正文对照，仍不能将蓝图条目当现行内容，尤其摘要与正式映射有多次覆盖。
+.agents/workspace/03_简阵卷/人物/00_人物索引.md	.md	workspace	已全文读	优先位列9类人物，当前此目录仅3张人物卡且卷索引列5名核心人物；索引用途仅给人物卡写作侧重点，没有卡片状态/是否待建标记。
+.agents/workspace/03_简阵卷/人物/01_主角_暂名傅远洲.md	.md	workspace	已全文读	人物弧线从模板压平差异到可观测秩序清晰；“转折为一次复杂事故”尚泛，需对应具体事故章与代价。
+.agents/workspace/03_简阵卷/人物/02_继承者_乔落.md	.md	workspace	已全文读	成长弧线有完整锚点，但“从化形宿域转来”“白又新教会她先看负载”需核对时间线及正文证据，不能用卡片替代已发生事实。
+.agents/workspace/03_简阵卷/人物/03_观象者_秦望秋.md	.md	workspace	已全文读	人物定位直接且简洁；“首次出场Ch06/贡献三件套”须按现行章序和正文索引核验，当前其余6类优先位没有人物卡。
+.agents/workspace/03_简阵卷/正文设计/00_正文设计说明.md	.md	workspace	已全文读	两段短说明，仅有目录用途和阶段命名建议；建议的三部名与实际12卷章纲目录不一致，入口说明已陈旧。
+.agents/workspace/03_简阵卷/章纲/00_章纲索引.md	.md	workspace	已全文读	术语、文学映射、工程演进与三问改为诊断参考；不要求逐句括注、每章填表或每项工具由事故触发。
+.agents/workspace/03_简阵卷/章纲/01_卷一_扩域.md	.md	workspace	已全文读	Ch01–10从平台扩张到可知性问题逻辑顺畅；服务数量统计口径混用且健康类别被当成同一维度相加，Ch10“夜间事故必然发生”过度确定。
+.agents/workspace/03_简阵卷/章纲/01_正式章纲_五段十五章.md	.md	workspace	已全文读	文件明示旧15章仅说明来源结构、非现行章序，降低误读风险；旧稿乔落凌晨独立处理事故、关闭传讯牌等结局与120章现行目标映射时仍需逐项确认，不能直接迁剧情事实。
+.agents/workspace/03_简阵卷/章纲/02_卷二_绿色谎言.md	.md	workspace	已全文读	Ch06与Ch11对同一凌晨对账停滞给出DB连接池耗尽 vs 格式异常被catch后返回空数据两套根因，须裁定是否同一事故；Ch13乔落延长超时能否恢复空数据场景需补因果和风险。
+.agents/workspace/03_简阵卷/章纲/03_卷三_失明.md	.md	workspace	已全文读	日志格式事故设计清晰但未写直接回滚/恢复动作；Ch24用事后新结构化日志推称旧事故T+15可查属反事实；11,742次/每时辰约合2.7年，与“开天辟地/几十年”需按纪元范围分开。
+.agents/workspace/03_简阵卷/章纲/04_卷四_依赖图.md	.md	workspace	已全文读	Ch31–40将依赖所有权、僵尸依赖和可观测性串联；Ch38七处僵尸依赖需与Ch37退场/托管决策对账，Ch39自动更新图谱与当前人工重建不同阶段，Ch40可观测性承诺需拆期并落实人力。
+.agents/workspace/03_简阵卷/章纲/05_卷五_观象.md	.md	workspace	已全文读	Ch41–50从单请求tracing推进到观测边界，Ch47/48证据边界扎实；Ch42全51服务24小时铺开无成本/责任，Ch43上下文/errgroup不能保证下游取消，Ch45指标规则过度通用，Ch50把protobuf说成机器可验证契约过满。
+.agents/workspace/03_简阵卷/章纲/06_卷六_边界.md	.md	workspace	已全文读	Ch51–60从契约到行序过渡清晰；Ch52 protobuf并非业务契约唯一真相，Ch54 SemVer强制提前一个MINOR公告需定本地政策，Ch56桥类/实例统计混口径，Ch57全自动部署缺风险闸与命令语境，Ch59把契约简化为what不含when过度绝对。
+.agents/workspace/03_简阵卷/章纲/07_卷七_行序.md	.md	workspace	已全文读	Ch65明确未测目标负载仍放行，为Ch67事故提供流程因果；但Ch43已写泄漏修复，Ch67又把既有泄漏作为OOM因素，须说明修复未覆盖/新泄漏；512MB是硬限额还是软预算需定；Ch69把温故来=修补者学生标“锚定”与未证身份边界冲突。
+.agents/workspace/03_简阵卷/章纲/08_卷八_删模版.md	.md	workspace	已全文读	Ch71–79把减项、理由、默认值依据与团队补记相连；模板删项三规则不能把“没人说清”直接当删除证据，4项最低集需确认安全缺口；Ch75易将周栖野简化为“空白/出事再追”，与化形卷更新弧线对照；Ch76/80过度把制度不足转成个人判断问题。
+.agents/workspace/03_简阵卷/章纲/09_卷九_新手.md	.md	workspace	已全文读	乔落从手册使用者成长为判断/补充者且形成Ch68→77→81回环；Ch81的151/150连接数与MaxOpenConns=100余量需细化，Ch83把0无限池求和及20%余量写成硬规则不严谨，Ch84迁移事务/down/备份绝对化，Ch85三次同错不足证明永久变更且线上改解析缺风险闸。
+.agents/workspace/03_简阵卷/章纲/10_卷十_平台.md	.md	workspace	已全文读	共同治理工具推进完整；Ch93把业务健康探针和goroutine趋势监控混写，Ch94 SLO/error budget概念过简且目标无基线，Ch95渐进比例/5分钟验证不足，Ch96十五秒graceful shutdown不能保证零中断；Ch98把远古告警认定为免疫信号/等执约人，违背Ch48明确未知边界。
+.agents/workspace/03_简阵卷/章纲/11_卷十一_成阵.md	.md	workspace	已全文读	Ch101–110由告警定位跳至旧屋/首约/石镜/史约，信息来源、物理追踪与古代协议未搭；Ch98已把未知告警定性为免疫信号；石镜将四人复杂信念极端化并宣称强制读心，且“修补者”从影像/遗留记录转为可回应离开的实体，均缺规则与前置伏笔。
+.agents/workspace/03_简阵卷/章纲/12_卷十二_共约.md	.md	workspace	已全文读	终局二阶回收充分，但人物/卷域映射硬错：Ch111把纪承钧放在息壤、与周栖野重复；Ch115把季循标驭器、陆踏痕标化形，和人物卡/历史蓝图相反；Ch104–116也错配纪承钧平台。Ch114“关闭传讯牌”与持续on-call责任冲突；Ch118把创始者留白未证动机定成设计。
+.agents/workspace/03_简阵卷/资料/00_资料索引.md	.md	workspace	已全文读	仅列资料类型，未列具体资料项、来源或证据等级；作为目录说明不具备资料清单功能，需补链接/责任边界后才便于核查。
+.agents/workspace/04_明契卷/00_卷索引.md	.md	workspace	已全文审阅并增加边界	显著标明120章为设计蓝图、根级正文索引只到Ch01–30、其余映射待核。
+.agents/workspace/04_明契卷/人物/00_人物索引.md	.md	workspace	已全文读	十张人物卡和关系表均已落文件；进度自述仍称关系未压入场景，与120章索引已有多处人物场景并列，说明规划/正文状态口径混用。
+.agents/workspace/04_明契卷/人物/01_主角_暂名沈见微.md	.md	workspace	已全文读	主角弧线明确把个人救火权转为公共可继承秩序；“必须完成”是设计强约束，需在正文通过真实责任/身份代价获得，避免结尾一跃成功。
+.agents/workspace/04_明契卷/人物/02_镜像者_暂名裴照川.md	.md	workspace	已全文读	英雄止火与知识垄断的镜像冲突有力；“完全意识到却仍选择集中知识”需由具体选择和维护负担支撑，且他是否交火仍是未决设计，不可提前当完成人物弧线。
+.agents/workspace/04_明契卷/人物/03_守门者_暂名韩砺年.md	.md	workspace	已全文读	现实维护责任与守旧表象有因果基础；与主角关系写“前任守门人/下一任潜在接火者”易混淆角色先后，建议明确韩是现任、沈是候任还是轮替已发生。
+.agents/workspace/04_明契卷/人物/04_审契者_暂名闻衡.md	.md	workspace	已全文读	审查者由否决走向现场共担有弧线；“版本说明在撒谎”把文件失真拟成人的欺骗意图，宜改为承诺与实况不符，保留她的锐度同时避免道德误判。
+.agents/workspace/04_明契卷/人物/05_继承者_暂名季循.md	.md	workspace	已全文读	从自责转向识别入口缺失的成长清楚；多处把季循定义为“校验器/第一证据”，需补他主动选择、拒绝或重设规则的行动，使他不只承担主角制度的验收功能。
+.agents/workspace/04_明契卷/人物/06_同门者_暂名苏野平.md	.md	workspace	已全文读	快路真实价值与临时补丁外溢冲突有效；“意识到一大半”及最终放下部分价值感仍偏抽象，需具体展示哪次捷径伤到谁、哪种弹性被规则保留。
+.agents/workspace/04_明契卷/人物/07_使用者_暂名程知序.md	.md	workspace	已全文读	使用者从忍受临时兜底转向要求可复走路径，代价具体；卷纲应避免仅把她当“现实校验者”，并让拒绝兜底产生真实业务后果和谈判。
+.agents/workspace/04_明契卷/人物/08_渡桥人_暂名顾迁衡.md	.md	workspace	已全文读	桥必须可迁移并有拆期的职责清楚；“逼主角承担短期拆桥成本”应明确具体承担者、受影响方及无损迁移不可行时的决策规则。
+.agents/workspace/04_明契卷/人物/09_诱惑者_暂名贺时进.md	.md	workspace	已全文读	短期绩效是结构性压力而非反派恶意，主题作用成立；其“意识到”外部成本却仍反复延期，需解释奖赏、授权或窗口压力如何限制其选择，并在后续承担可见责任。
+.agents/workspace/04_明契卷/人物/10_失传者_暂名梁故川.md	.md	workspace	已全文读	梁故川通过遗迹形成沉重镜像；“后期大概意识到”“先撑门”等是后人推断却写在内心信念栏，须标证据/解释；Ch95–97让韩砺年讲原因，也与“转折不会由他亲口说出、由后来者考古”需要统一为证言来源。
+.agents/workspace/04_明契卷/人物/90_关系链总表.md	.md	workspace	已全文读	15组关系命题能覆盖核心冲突；结尾称“可支撑正式章纲”，而人物索引仍称五个锚点场景待压入，状态不一，需区分角色关系设计与场景写入完成。
+.agents/workspace/04_明契卷/正文设计/00_入卷说明_明契卷怎么读.md	.md	workspace	已全文读	入卷导读用于读者入口设计；“旧工具链/秩序”属设定说明，正式正文需以现行索引和canon核对，不能当情节事实。
+.agents/workspace/04_明契卷/正文设计/00_正文设计说明.md	.md	workspace	已全文读	明确本目录是样场与连缀设计稿；“正文已完成”及沉入正文范围须以现行正文索引/审校账本复核。
+.agents/workspace/04_明契卷/正文设计/01_卷尾样场_主角不在场时火未灭.md	.md	workspace	已全文读	拟写继承场景；watch alias、patch与应急桥生命周期需按真实接口/时间线核验，不能以样场证明正文闭环。
+.agents/workspace/04_明契卷/正文设计/02_卷首样章_错版夜发.md	.md	workspace	已全文读	样章根因同时包含环境、旧壳、缓存、钩子；须同事故原型及分镜收敛为一条可追因链，且不视为已发生正文。
+.agents/workspace/04_明契卷/正文设计/03_高潮样场_不再偷偷续命高频旧桥.md	.md	workspace	已全文读	拟写高潮将自动入口关闭与手工应急并存；需明确桥名、受影响窗口、代价和退出时间，且与桥单同一口径。
+.agents/workspace/04_明契卷/正文设计/04_第二章样场_立炉之前_边界先行.md	.md	workspace	已全文读	样场把“做全/缩scope”冲突戏剧化；人物动机仍以辩论承担，应补现实窗口与主角具体承担的成本。
+.agents/workspace/04_明契卷/正文设计/05_第三章样场_选道而行_为什么是Rust.md	.md	workspace	已全文读	选Rust场景回应旧病，但把编译器写成可保证承诺成立易过度；限缩为安全代码/类型系统所能验证的边界。
+.agents/workspace/04_明契卷/正文设计/06_第二十九章样场_术与道争_何时该用Rust何时不该用Rust.md	.md	workspace	已全文读	分层取舍是成熟主题；寿命/协作/风险准则属判断框架，不可写成语言适用性的机械定理。
+.agents/workspace/04_明契卷/正文设计/07_卷十终局连缀_合道飞升.md	.md	workspace	已全文读	连续稿复用高潮、道争、缺席接火样场；与独立样场重复较多，须按现章号与日期去重并核对事件连续性。
+.agents/workspace/04_明契卷/章纲/00_章纲索引.md	.md	workspace	已全文读	标明120章为早期设计；明确明契是第一阶段四主卷的收束卷、不是八卷终卷；统一术语/工具关系与读者可及规则为按需参考。正式章序仍以根索引为准。
+.agents/workspace/04_明契卷/章纲/01_卷一_凡火.md	.md	workspace	已全文读	卷首事件包含手改配置、隐性脚本与口传等多因；第1章事故与第2章“事故前夜”时序需统一；Rust因果类比应限缩。
+.agents/workspace/04_明契卷/章纲/01_正式章纲_推进总表.md	.md	workspace	已标记历史快照	标题及顶部提示明确为2026-04前后十卷三十章规划状态；“第四卷入口”限于第一阶段，不代表八卷系列终卷；当前状态指向根索引与实时账本。
+.agents/workspace/04_明契卷/章纲/02_卷二_立约.md	.md	workspace	已全文读	规划的 ownership/borrow 解释有绝对化（借用限制、C++随机崩溃、Result强制处理）；需以具体代码场景校准。
+.agents/workspace/04_明契卷/章纲/02_正式章纲_卷一到卷三.md	.md	workspace	已全文读	正式章纲仍按旧第1—9章写，与120章分纲位置不同；作为规划稿使用并先映射，首事故有多种根因版本。
+.agents/workspace/04_明契卷/章纲/03_卷三_成形.md	.md	workspace	已全文读	规划把unwrap视为错误处理缺失，但unwrap实际选择失败时panic；Option/Result并不自动证明业务错误已妥善处理。
+.agents/workspace/04_明契卷/章纲/03_正式章纲_卷四到卷六.md	.md	workspace	已全文读	旧30章结构的第10—18章与120章 Ch31—60 对应关系不显式；AI读者/正文写作先查映射，避免把小共同体计划当已发生。
+.agents/workspace/04_明契卷/章纲/04_卷四_筑基.md	.md	workspace	已全文读	旧注释作者从匿名线索直接指向梁故川的推断跨越证据；文档可能过时的主题可保留，但需以线索递进而非先给答案。
+.agents/workspace/04_明契卷/章纲/04_正式章纲_卷七到卷九.md	.md	workspace	已全文读	形式章号为旧局部第19—27章，内容又对应新 Ch61—90；并发/FFI剧情需具体指出安全Rust之外的故障机制。
+.agents/workspace/04_明契卷/章纲/05_卷五_立制.md	.md	workspace	已全文读	workspace共享Cargo.lock/target不等于各crate版本相同或免于升级；trait/桥/门规冲突仍是剧情计划。
+.agents/workspace/04_明契卷/章纲/05_正式章纲_卷十.md	.md	workspace	已标记历史章纲	改明为早期十卷三十章蓝图中的收束卷设计；不作现行章序或终局正典，现行状态由根索引与实时账本确定。
+.agents/workspace/04_明契卷/章纲/06_卷六_同修.md	.md	workspace	已全文读	Git协作冲突用“沟通不足”概括过宽；merge conflict是文本合并冲突，不等于两人未沟通或承诺背契。
+.agents/workspace/04_明契卷/章纲/07_卷七_守界.md	.md	workspace	已全文读	Rust安全/Send-Sync叙述夸大为所有数据竞争与goroutine泄漏不可发生；FFI库升级导致unsafe论证失效须补具体API契约变化。
+.agents/workspace/04_明契卷/章纲/08_卷八_出山.md	.md	workspace	已全文读	“仅检查直接依赖”却导出“可安全废弃”造成跨卷事故，结论强于证据；补明输出文案、调用者决策及隐式依赖为何漏检。
+.agents/workspace/04_明契卷/章纲/09_卷九_入世.md	.md	workspace	已全文读	Ch83把默认配置的共享读写直接写成Rust数据竞争，须说明unsafe/FFI/不sound封装或改为业务竞态；不要让安全Rust无机制失守。
+.agents/workspace/04_明契卷/章纲/10_卷十_问鼎.md	.md	workspace	已全文读	章纲把灰印作者与梁故川完整动机收成定论；需标出笔记/口述/推断证据，避免前期悬疑早已被确定。
+.agents/workspace/04_明契卷/章纲/11_卷十一_道争.md	.md	workspace	已全文读	纪承钧传讯与跨卷爆炸为剧情规划；“同源/责任”需依据两侧独立证据，不能靠主题对称替代事件链。
+.agents/workspace/04_明契卷/章纲/12_卷十二_百炼.md	.md	workspace	已全文读	继承验证是目标设计，不是现成事实；门规签名、版本跃迁和离场时间应由此前项目历史支撑。
+.agents/workspace/04_明契卷/资料/00_资料索引.md	.md	workspace	已全文读	列出11份资料且给出用途/缺口，但“下一步重写入口六章”等执行状态需同明契正文索引、重写手记校准；索引大量以“已立住/已固定”概述，不等于经过正典与证据核验。
+.agents/workspace/04_明契卷/资料/01_卷首事故原型_错版夜发.md	.md	workspace	已全文读	六个事故拍点有戏剧力，但同时列缓存、环境变量、插件顺序、旧壳、文档漂移、回滚本地状态多个根因，需压成一条可证伪的主因果链；闻衡/沈见微将说明定性为“撒谎”也要有故意隐瞒证据。
+.agents/workspace/04_明契卷/资料/02_青炉项目档案.md	.md	workspace	已全文读	项目母档将六组件称固定成长路线，与不同章纲中的组件启用时序不齐；“当前拥有”是设计声明，需和正文/里程碑表核对。
+.agents/workspace/04_明契卷/资料/03_青炉组件备注_卷四到卷六.md	.md	workspace	已全文读	组件支撑章用旧第10/13/15等号而非120章Ch31+，需映射；列项是支撑计划，不证明对应组件已在正文成立。
+.agents/workspace/04_明契卷/资料/04_旧脚本遗产清单_首批.md	.md	workspace	已全文读	脚本名与用途是情节物证设想；与事故原型中实际导致同版异行为的主因需一一对应，勿把清单当现存证据。
+.agents/workspace/04_明契卷/资料/05_青炉组件备注_卷七到卷九.md	.md	workspace	已全文读	组件备注继续采用旧局部章号，与Ch61—90索引不同；需映射并标注为架构计划。
+.agents/workspace/04_明契卷/资料/06_门规失效_发布失信_兼容债冷史_首批.md	.md	workspace	已全文读	冷史样本是可调用虚构案例，不是既定历史；引用时需明确日期、角色和因果是新增正文选择。
+.agents/workspace/04_明契卷/资料/07_与旧核接壤的最小sharp_edge清单.md	.md	workspace	已全文读	尖角清单提供风险类型但不证明具体故障；旧核、FFI、运行态风险须按桥/接口定义落地。
+.agents/workspace/04_明契卷/资料/08_卷首事故逐场分镜_错版夜发.md	.md	workspace	已全文读	分镜要求第1章包含事故至止火九场，而相邻章纲把第2章置于“事故爆发前夜”；对齐时序并锁定单一主故障。
+.agents/workspace/04_明契卷/资料/09_桥单退场日历_首批.md	.md	workspace	已全文读	桥单为规划表；核对第28章自动入口关闭、14日手工应急、第30章watch alias patch的状态/日期，避免混淆不同桥。
+.agents/workspace/04_明契卷/资料/10_整卷逻辑复盘_首轮.md	.md	workspace	已全文读	复盘提出场景重复、外部人物弧和快路胜局等有效问题；文中“已修正文”仍需现正文证据，且引用为旧章号。
+.agents/workspace/04_明契卷/资料/11_整卷重写策略_去云化与提质.md	.md	workspace	已全文读	策略清楚识别术语先行、角色同声和缺生活层；作为验收标准使用，不代表相关重写已实施。
+.agents/workspace/05_容断卷/章纲/00_章纲索引.md	.md	workspace	已全文读	首页区分旧120章与现65章；OTP重启强度/let-it-crash与全平台崩溃计划须限定监督树、输入错误与升级边界。
+.agents/workspace/06_通界卷/章纲/00_章纲索引.md	.md	workspace	已全文读	首页区分旧120章与现60章；Gateway/mesh/注册表是主题计划，需保留单点故障、契约版本兼容等边界。
+.agents/workspace/07_守序卷/章纲/00_章纲索引.md	.md	workspace	已全文读	首页区分旧120章与现60章，正文编号锚点明确待映射；“约检式在”与驿河告警仍须保持未证假说。
+.agents/workspace/08_求式卷/章纲/00_章纲索引.md	.md	workspace	后续维护已更新	删除与上方现状重复且已过期的卷十一/十二“正文待写”行。
+.agents/workspace/08_求式卷/章纲/01_卷九至十二_连续剧情与伏笔设计.md	.md	workspace	独立复核完成	Ch43–60详细提案；三条回收链、一处二阶回读；日期部署边界、已知覆盖范围、计数与试点时间线均经两轮复核；正文未写。
+.agents/workspace/08_求式卷/资料/编辑手记_求式卷补全.md	.md	workspace	已校准	标明第一棒手记属历史记录；状态更新至Ch42，并指向当前索引、Ch43–60剧情提案和实时账本。
+.agents/workspace/09_造言卷/章纲/00_章纲索引.md	.md	workspace	已全文读	未来卷概念方案；跨卷信号保持未证，章节号和情节仍属待设计，不当作现行正文。
+.agents/workspace/历史蓝图/卷外配套旧版状态与规划.md	.md	workspace	已全文读	文首清楚声明2026-06-21历史快照并指向当前配套索引；76/76实践单统计和待扩展120章状态仅是旧状态，不能复用为现在进度。
+.agents/workspace/历史蓝图/四主卷工作区说明_旧版.md	.md	workspace	已全文核读并归档	原四主卷工作区说明全文保留，新增历史效力标记；不作为现行路由。
+.agents/workspace/历史蓝图/第一阶段四主卷历史章节蓝图.md	.md	workspace	已全文读	776行旧蓝图首尾均声明非现行章序/正典并要求回查证据；其早期条目将残码作者、前代动机与史约起源写成定论（如驭器37–50、简阵101–110、明契104–109），仍须按当前canon/正文证据逐项过滤，不能反向覆盖较新章节。
+.agents/workspace/审校批次报告_2026-11-14.md	.md	workspace	后续维护已更新	新增时点说明，明确此报告的工作树与审校信息是历史快照，当前进度查实时账本。
+.agents/workspace/校验报告/latest.md	.md	workspace	后续维护已更新	补充自动统计快照边界，说明其不代表当前稿件数量或人工逻辑审校结论。
+.agents/workspace/正文全卷审校进度.md	.md	workspace	已更新第二轮状态	保留第一轮基线并记载全卷覆盖；新增求式Ch43–60剧情蓝图、信号证据边界与未写续接状态。
+AGENTS.md	.md	project-root	后续维护已更新	共享项目规则入口；将旧 Omarchy/Claude/Pi/OpenCode 实现注释改为中性说明。
+README.md	.md	project-root	后续维护已更新	合并旧目录蓝图与现行读者/项目入口边界；补充 agent 规则及canon链接。
